@@ -9,6 +9,11 @@ iopath requires python >= 3.6.
 
 Use one of the following ways to install:
 
+### * If installing fix, use
+```
+pip install git+https://github.com/adoodles/iopath.git@lp-install
+```
+
 ### 1. Install from PyPI (updated nightly)
 ```
 pip install -U iopath
