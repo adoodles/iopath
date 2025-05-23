@@ -5,6 +5,9 @@ across storage backends.
 
 ## Original fix:
 https://github.com/nikhilweee/iopath
+```
+pip install git+https://github.com/adoodles/iopath.git@lp-install
+```
 
 ## Install:
 
